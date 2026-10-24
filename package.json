@@ -1,0 +1,13 @@
+{
+  "name": "ai-cinematic-storyboard-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Cinematic Storyboard & Script Studio with a server-side Gemini API proxy",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

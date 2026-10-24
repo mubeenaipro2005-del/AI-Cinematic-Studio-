@@ -1,0 +1,5 @@
+# Copy this file to .env for local development.
+# Put your real Gemini API key in .env or your hosting provider's Secrets settings.
+# NEVER commit the real .env file to GitHub.
+GEMINI_API_KEY=
+PORT=3000
